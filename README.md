@@ -10,4 +10,4 @@ Here are some of my coding projects:
 
 
 
-You can find some of my USACO solutions [HERE]([https://github.com/YourUsername/USACO-Solutions](https://github.com/Ertugrul12345/Usaco-Solutions/tree/main)).
+You can find some of my USACO solutions [HERE](https://github.com/Ertugrul12345/Usaco-Solutions/tree/main)).
