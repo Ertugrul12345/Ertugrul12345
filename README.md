@@ -10,6 +10,7 @@ Here are some of my coding projects:
 
 - [**Text Summarizer**](https://github.com/Ertugrul12345/AI-Note-Summarizer)
 
+- [**Youtube Video Summarizer**](https://github.com/Ertugrul12345/Youtube-Video-Summarizer)
 
 
 You can find my solutions to past USACO problems [HERE](https://github.com/Ertugrul12345/Usaco-Solutions/tree/main).
