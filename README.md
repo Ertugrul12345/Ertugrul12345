@@ -8,7 +8,7 @@ Here are some of my coding projects:
 
 - [**RevoTeach**](https://github.com/Ertugrul12345/RevoTeach/tree/main)  
 
-- [**Text Summarizer**](https://github.com/Ertugrul12345/AI-Note-Summarizer).  
+- [**Text Summarizer**](https://github.com/Ertugrul12345/AI-Note-Summarizer)
 
 
 
